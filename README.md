@@ -1,67 +1,39 @@
 ### Hi there 👋
 
-<!--
-**eudavisantos/eudavisantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reset no GitHub</title>
-    <style>
-        /* Estilização geral */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f7f7f7;
-        }
+🔄 **Reset para um estado anterior**
 
-        header {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 20px 0;
-        }
+ℹ️ **Descrição:**
+Esta alteração reverte o repositório para um estado anterior, com o objetivo de resolver um problema específico ou refazer o trabalho.
 
-        h1 {
-            margin: 0;
-        }
+📅 **Data:**
+[Data do reset]
 
-        main {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
+🔀 **Branch:**
+[Branch atual]
 
-        section {
-            margin-bottom: 20px;
-        }
+🔄 **Commit Anterior:**
+[SHA do commit anterior]
 
-        h2 {
-            color: #333;
-        }
+🚀 **Sobre Mim:**
+Olá! Sou um desenvolvedor front-end com experiência em projetos acadêmicos. Minha especialização envolve a criação de interfaces de usuário eficientes e acessíveis. Trabalho com as seguintes linguagens:
+- HTML
+- CSS
+- JavaScript
 
-        /* Outros estilos conforme necessário */
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Reset no GitHub</h1>
-    </header>
-    <main>
-        <section>
-            <h2>Descrição</h2>
-            <p>Revertendo o repositório para um estado anterior para corrigir um problema ou refazer o trabalho.</p>
-        </section>
-        <section>
-            <h2>Data</h2>
-            <p>[Data do reset]</p>
-        </section>
-        <!-- Outras seções com informações relevantes -->
-    </main>
-</body>
-</html>
+💡 **Motivação:**
+Minha principal motivação é colaborar em projetos acadêmicos e orientar em cursos técnicos. Acredito que a educação é fundamental para um futuro melhor e estou comprometido em contribuir para isso por meio do desenvolvimento de tecnologias e recursos educacionais.
+
+📝 **Notas adicionais:**
+[Qualquer informação adicional relevante]
+
+📷 **Screenshots:**
+[Se aplicável, adicione capturas de tela antes e depois]
+
+🔗 **Referências:**
+[Links para issues ou outras referências relevantes]
+
+🔧 **Comandos utilizados:**
+```bash
+git reset --hard [SHA do commit anterior]
+
 
