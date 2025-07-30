@@ -27,13 +27,10 @@
 
 <hr style="border:2px solid #4caf50" />
 
-### 🧠 Um pouco sobre mim
+### 🧠 Um pouco sobre o DAVI
 
-- Gosto de aprender na prática, testando ideias e montando coisas do zero.  
-- Tenho estudado com calma, focando em criar projetos que realmente funcionem.  
-- Não tenho pressa de “saber tudo”, mas quero evoluir sempre, com consistência.  
-- Às vezes erro, mas sempre tento entender e corrigir — faz parte do processo.  
-
+Comecei a programar em 2018 e fiz meu primeiro curso técnico em 2020, terminando em 2021. Em 2022, fiz uma especialização em Segurança de Redes de Dados no SENAI e hoje tô cursando Ciência da Computação pra aprofundar ainda mais.
+Tenho focado bastante em projetos práticos, sempre tentando aprender na marra e melhorar minhas skills na área técnica. Também já tive experiência na educação, desenvolvendo projetos e pesquisando formas de ensinar tecnologia de um jeito mais legal.
 ---
 
 ### 📂 Meus projetos
