@@ -1,57 +1,60 @@
-# Olá, eu sou o Davi 👨‍💻
+<h1 align="center">👋 E aí, eu sou o Davi!</h1>
 
-Atualmente estou estudando para me tornar desenvolvedor Front-End.  
-Gosto de criar interfaces simples, funcionais e com boa estética.
-
-Tenho explorado bastante **HTML, CSS e JavaScript**, além de começar a entender o básico de **PHP e SQL**, principalmente para projetos pessoais que envolvem formulários, banco de dados e sistemas simples de login ou controle.
-
----
-
-### 🧠 O que venho aprendendo:
-
-- HTML semântico e boas práticas
-- CSS Flexbox, Grid e responsividade
-- JavaScript puro (DOM, eventos, lógica)
-- PHP básico (inserções em banco, autenticação simples)
-- MySQL (comandos básicos, estrutura de tabelas)
-- Git e GitHub (controle de versão e colaboração)
+<p align="center">
+  👨‍💻 Estudante e futuro desenvolvedor front-end <br/>
+  🎨 Gosto de criar interfaces simples, bonitas e funcionais <br/>
+  📚 Aprendendo HTML, CSS, JavaScript, PHP e SQL no dia a dia
+</p>
 
 ---
 
-### 📌 Alguns projetos pessoais
+### 🛠️ Tecnologias que venho estudando
 
-> São projetos simples, mas onde aplico o que estou estudando no momento. Todos estão em desenvolvimento constante.
-
-- **[Calculadora JS](https://github.com/SEUUSUARIO/calculadora-js)**  
-  Projeto básico usando HTML, CSS e JavaScript. Boa prática para lógica e DOM.
-
-- **[To-do List](https://github.com/SEUUSUARIO/todo-list)**  
-  Lista de tarefas com salvamento local (localStorage). Primeiro projeto mais completo com JS.
-
-- **[Sistema de ponto](https://github.com/SEUUSUARIO/sistema-ponto)**  
-  Projeto com HTML, CSS, PHP e banco de dados MySQL. Um CRUD básico onde aplico SQL e lógica de autenticação.
-
-- **[Jogo de lógica booleana](https://github.com/SEUUSUARIO/jogo-logica)**  
-  Mini game simples pra praticar JavaScript e interatividade com o usuário.
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+</div>
 
 ---
 
-### 💬 Sobre mim
+### 🧠 Um pouco sobre mim
 
-Gosto muito de aprender fazendo.  
-Geralmente começo um projeto pequeno, e vou melhorando com o que descubro no caminho. Meu foco é **melhorar cada vez mais o código e a experiência de quem usa**.
-
----
-
-### 📫 Contato
-
-Se quiser conversar, colaborar ou dar feedback:
-
-- Email: **seuemail@email.com**  
-- Instagram: [@seuusuario](https://instagram.com/seuusuario)  
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
+- Gosto de aprender na prática, testando ideias e montando coisas do zero.
+- Tenho estudado com calma, focando em criar projetos que realmente funcionem.
+- Não tenho pressa de “saber tudo”, mas quero evoluir sempre, com consistência.
+- Às vezes erro, mas sempre tento entender e corrigir — faz parte do processo.
 
 ---
 
-> Obrigado por visitar meu perfil!  
-> Estou sempre tentando melhorar, então novas coisas devem aparecer por aqui em breve :)
+### 📂 Meus projetos
+
+| Projeto | O que é | Link |
+|--------|--------|------|
+| 🧮 **Calculadora JS** | Uma calculadora simples pra treinar JS e DOM | [Ver projeto](https://github.com/SEUUSUARIO/calculadora-js) |
+| ✅ **To-do List** | Lista de tarefas com salvamento local | [Ver projeto](https://github.com/SEUUSUARIO/todo-list) |
+| 🕹️ **Jogo de lógica** | Um mini game pra treinar lógica booleana | [Ver projeto](https://github.com/SEUUSUARIO/jogo-logica) |
+| ⏱️ **Sistema de ponto** | Registro de ponto com PHP e banco de dados | [Ver projeto](https://github.com/SEUUSUARIO/sistema-ponto) |
+
+---
+
+### 📫 Como me encontrar
+
+<div align="center">
+  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
+  <a href="https://instagram.com/seuusuario"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&count_private=true" />
+</div>
+
+<div align="center">
+  ✨ Obrigado por passar aqui. Novos projetos estão sempre a caminho!
+</div>
