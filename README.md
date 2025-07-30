@@ -1,60 +1,57 @@
-<h1 align="center">👋 Olá, eu sou o Davi!</h1>
+# Olá, eu sou o Davi 👨‍💻
 
-<p align="center">
-  🚀 Desenvolvedor Front-End em formação <br/>
-  🎯 Apaixonado por tecnologia, criatividade e experiências visuais<br/>
-  🌱 Aprendendo HTML | CSS | JavaScript | PHP | SQL
-</p>
+Atualmente estou estudando para me tornar desenvolvedor Front-End.  
+Gosto de criar interfaces simples, funcionais e com boa estética.
 
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
-</div>
+Tenho explorado bastante **HTML, CSS e JavaScript**, além de começar a entender o básico de **PHP e SQL**, principalmente para projetos pessoais que envolvem formulários, banco de dados e sistemas simples de login ou controle.
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 O que venho aprendendo:
 
-- 🎓 Estudante focado em front-end, interfaces responsivas e web moderna.
-- 💡 Curioso sobre UX/UI e experiências digitais criativas.
-- 💼 Buscando oportunidades para evoluir e colaborar em projetos reais.
-- 🧩 Trabalhando em mini games e sistemas web com PHP + JS.
-
----
-
-### 📂 Projetos em destaque
-
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| 🧮 **Calculadora JS** | Uma calculadora simples feita com HTML, CSS e JavaScript | [Ver projeto](https://github.com/SEUUSUARIO/calculadora-js) |
-| ✅ **To-do List** | Lista de tarefas com salvamento local e design responsivo | [Ver projeto](https://github.com/SEUUSUARIO/todo-list) |
-| 🕹️ **Jogo de lógica** | Joguinho educativo com lógica booleana (AND/OR) | [Ver projeto](https://github.com/SEUUSUARIO/jogo-logica) |
-| 🗂️ **Sistema de ponto** | Registro de ponto com PHP + SQL e visual moderno | [Ver projeto](https://github.com/SEUUSUARIO/sistema-ponto) |
+- HTML semântico e boas práticas
+- CSS Flexbox, Grid e responsividade
+- JavaScript puro (DOM, eventos, lógica)
+- PHP básico (inserções em banco, autenticação simples)
+- MySQL (comandos básicos, estrutura de tabelas)
+- Git e GitHub (controle de versão e colaboração)
 
 ---
 
-### 🌐 Contato
+### 📌 Alguns projetos pessoais
 
-<div align="center">
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
-  <a href="https://instagram.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" /></a>
-  <a href="https://www.linkedin.com/in/seuusuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
-</div>
+> São projetos simples, mas onde aplico o que estou estudando no momento. Todos estão em desenvolvimento constante.
+
+- **[Calculadora JS](https://github.com/SEUUSUARIO/calculadora-js)**  
+  Projeto básico usando HTML, CSS e JavaScript. Boa prática para lógica e DOM.
+
+- **[To-do List](https://github.com/SEUUSUARIO/todo-list)**  
+  Lista de tarefas com salvamento local (localStorage). Primeiro projeto mais completo com JS.
+
+- **[Sistema de ponto](https://github.com/SEUUSUARIO/sistema-ponto)**  
+  Projeto com HTML, CSS, PHP e banco de dados MySQL. Um CRUD básico onde aplico SQL e lógica de autenticação.
+
+- **[Jogo de lógica booleana](https://github.com/SEUUSUARIO/jogo-logica)**  
+  Mini game simples pra praticar JavaScript e interatividade com o usuário.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-</div>
+### 💬 Sobre mim
 
-<div align="center">
-  🚧 *Perfil em constante evolução... Novos projetos chegando!*
-</div>
+Gosto muito de aprender fazendo.  
+Geralmente começo um projeto pequeno, e vou melhorando com o que descubro no caminho. Meu foco é **melhorar cada vez mais o código e a experiência de quem usa**.
+
+---
+
+### 📫 Contato
+
+Se quiser conversar, colaborar ou dar feedback:
+
+- Email: **seuemail@email.com**  
+- Instagram: [@seuusuario](https://instagram.com/seuusuario)  
+- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
+
+---
+
+> Obrigado por visitar meu perfil!  
+> Estou sempre tentando melhorar, então novas coisas devem aparecer por aqui em breve :)
