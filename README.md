@@ -44,9 +44,9 @@
 ### 📫 Como me encontrar
 
 <div align="center">
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
-  <a href="https://instagram.com/seuusuario"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" /></a>
-  <a href="https://www.linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+  <a href="mailto:davisilvadossantos@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
+  <a href="https://instagram.com/eudevdavisantos"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/devdavisantos"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
 </div>
 
 ---
@@ -56,5 +56,5 @@
 </div>
 
 <div align="center">
-  ✨ Obrigado por passar aqui. Novos projetos estão sempre a caminho!
+  ✨ Obrigado por passar aqui. Estou sempre por aqui!
 </div>
